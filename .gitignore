@@ -2,3 +2,5 @@ k_means/
 calcul.ipynb
 calcul.py
 test.ipynb
+data/
+data.zip
